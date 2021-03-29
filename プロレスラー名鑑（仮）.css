@@ -1,0 +1,99 @@
+/*CSSの画面*/
+/*ヘッダー*/
+.header {
+	background-color: black; 
+	height: 113px
+}
+.header-logo {
+	color: yellow;
+	font-family: serif;
+	float: left;
+	padding: 1px;
+	border: 10px ridge #EE0000;
+}
+.header-list {
+	color: white;
+	padding-top: 1px;
+	padding-bottom: 1px; 
+}
+.header-list a {
+	color: white;
+}
+.ul-1 {
+	float: left;
+	margin-right: 30px; 
+}
+.ul-2 {
+	float: left;
+}
+.search {
+	color: white;
+	float: right;
+}
+.s-p {
+	color: black;
+	background-color: yellow;
+	padding: 0px 0px 0px 0px;
+	margin: 24px 0px 0px 0px;
+}
+#s-box {
+	margin-right: 0px;
+	margin-top:  0px; 
+}
+#s-buttom {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.head-pic {
+	float: right;
+	padding-right: 20px;
+}
+/*メイン*/
+.main {
+	height: 530px;
+	background-color: green; 
+	margin-bottom: 0px; 
+}
+.main-contents {
+	float: left;
+	text-align: center;
+}
+.unit-pic {
+	width: 180px;
+	height: 200px;
+	padding: 20px 20px 0px 20px;
+
+}
+.sub-contents {
+	float: left;
+	text-align: center;
+}
+.belt-pic {
+	width: 170px;
+	height: 180px;
+	padding: 0px 30px;
+}
+#p-iwgpic{
+	margin-left: 10px;
+}
+
+/*フッター*/
+.footer {
+	height: 113px;
+	background-color: lightblue;
+	padding: 2px
+}
+
+.footer-pic {
+	float: left;
+}
+.footer-icon {
+	width: 140px;
+	height: 90px;
+	padding: 10px 10px 10px 10px;
+}
+.footer-list {
+	float: right;
+	padding: 1px;
+	margin-right: 20px;
+}
